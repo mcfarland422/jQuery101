@@ -1,0 +1,87 @@
+
+.container{
+  background: #F4F7F8;
+  max-width: 500px;
+  margin: 0 auto 0;
+  padding: 10px 30px 10px 30px;
+  border-radius: 10px;
+}
+
+.legend span{
+	position: absolute;
+	background-color: #00BD9E;
+	border-radius: 50% 50% 50% 0%;
+	color: #fff;
+	width: 35px;
+	height: 35px;
+  line-height: 35px;
+	text-align: center;
+  font-size: 1.2em;
+
+}
+
+h2{
+	font-size: 30px;
+	color: #black;
+  margin-left: 42px;
+  font-weight: normal;
+}
+
+input {
+  width: 100%;
+	margin: auto;
+  margin-bottom: 20px;
+	display: block;
+	border-radius: 5px;
+	border:  0px solid #E8EEEF;
+  color: #818486;
+  background-color: #E8EEEF;
+  font-size: 1em;
+  padding: 5px;
+
+}
+
+.button-apply{
+  width: 100%;
+  text-align: center;
+  background-color: #00BD9E;
+  border: solid 2px #00A68B;
+  font-size: 1.5em;
+  color: white;
+  padding: 10px 0 10px 0;
+  margin-top: 20px;
+}
+
+textarea {
+  width: 100%;
+  margin: auto;
+  margin-bottom: 20px;
+  display: block;
+  border-radius: 5px;
+  border:  0px solid #E8EEEF;
+  color: #818486;
+  background-color: #E8EEEF;
+  font-size: 1em;
+  padding: 5px;
+
+}
+
+select{
+  width: 100%;
+  margin: auto;
+  margin-bottom: 20px;
+  display: block;
+  border-radius: 5px;
+  border:  0px solid #E8EEEF;
+  color: #818486;
+  background-color: #E8EEEF;
+  font-size: 1em;
+  padding: 5px;
+
+}
+
+h5 {
+  margin-bottom: 10px;
+  font-size: 1.5em;
+  font-weight: normal;
+}

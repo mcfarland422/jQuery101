@@ -1,0 +1,24 @@
+body{
+  background: blue;
+}
+
+.ghost{
+  background: yellow;
+  height: 400px;
+  
+}
+
+.red2{
+  background: red;
+  height: 400px;
+
+
+}
+
+.green{
+  background: green;
+  height: 400px;
+  width: 200px;
+  margin-left: 20%;
+  overflow: hidden;
+}
